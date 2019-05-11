@@ -1,14 +1,14 @@
-pais,cantidad,porcentaje
-Perú,187756,"25,2"
-Colombia,"105,445.00","14,1"
-Venezuela (República Bolivariana de),"83,045.00","11,1"
-Bolivia (Estado Plurinacional de),"73,769.00","9,9"
-Argentina,"66,491.00","8,9"
-Haití,"62,683.00","8,4"
-Ecuador,"27,692.00","3,7"
-Brasil,"14,227.00","1,9"
-República Dominicana,"11,926.00","1,6"
-Cuba,"6,718.00","0,9"
-México,"5,806.00","0,8"
-Uruguay,"5,172.00","0,7"
-Paraguay,"4,492.00","0,6"
+pais,cantidad,porcentaje,latitud,longitud
+Perú,187756,25.20,-9.1899672,-75.015152
+Colombia,"105,445",14.10,4.570868,-74.2973328
+Venezuela (República Bolivariana de),"83,045",11.10,6.4237499,-66.5897293
+Bolivia (Estado Plurinacional de),"73,769",9.90,-16.2901535,-63.5886536
+Argentina,"66,491",8.90,-38.4160957,-63.6166725
+Haití,"62,683",8.40,18.9711876,-72.2852173
+Ecuador,"27,692",3.70,-1.831239,-78.183403
+Brasil,"14,227",1.90,-14.2350044,-51.9252815
+República Dominicana,"11,926",1.60,18.735693,-70.1626511
+Cuba,"6,718",0.90,21.5217571,-77.7811661
+México,"5,806",0.80,23.6345005,-102.5527878
+Uruguay,"5,172",0.70,-32.5227776,-55.7658348
+Paraguay,"4,492",0.60,-23.442503,-58.4438324
